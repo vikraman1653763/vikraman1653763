@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vikramang.netlify.app" target="_blank">
-    <strong>🌐 Check out my Portfolio</strong>
+    <strong>💼 Check out my Portfolio</strong>
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman1653763&label=Profile%20views&color=0e75b6&style=flat" alt="vikraman1653763" /> </p>
