@@ -9,7 +9,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman1653763&label=Profile%20views&color=0e75b6&style=flat" alt="vikraman1653763" /> </p>
 
-- 🔭 I’m currently working on **Xagrotor Tek Pvt Ltd**
+- 🔭 I’m currently working at **Ramco Systems**
 
 - 📫 How to reach me **vikraman1653763@gmail.com**
 
