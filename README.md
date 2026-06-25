@@ -53,7 +53,8 @@
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a> 
   <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/render" alt="render" width="40" height="40"/> </a> 
-  <a href="https://cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" alt="cpanel" width="40" height="40"/> </a> 
+  <a href="https://cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cpanel" alt="cpanel" width="40" height="40"/>  </a> 
+  
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> </a> 
   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cloudinary" alt="cloudinary" width="40" height="40"/> </a> 
 
