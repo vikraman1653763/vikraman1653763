@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vikraman G</h1>
 <h3 align="center">Crafting code, one bug at a time</h3>
 
-
 <p align="center">💼
   <a href="https://vikramang.netlify.app" target="_blank">
     <strong>Check out my Portfolio</strong>
   </a>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman1653763&label=Profile%20views&color=0e75b6&style=flat" alt="vikraman1653763" /> </p>
 
 - 🔭 I’m currently working at **Ramco Systems**
@@ -14,9 +14,10 @@
 - 📫 How to reach me **vikraman1653763@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikraman-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikraman-g/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23576407/vikraman-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23576407/vikraman-g" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikraman-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/vikraman-g/" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23576407/vikraman-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"   alt="https://stackoverflow.com/users/23576407/vikraman-g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,9 +65,16 @@
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/openaigym" alt="openaigym" width="40" height="40"/> </a> 
   
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikraman1653763&show_icons=true&locale=en&layout=compact" alt="vikraman1653763" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikraman1653763&show_icons=true&locale=en" alt="vikraman1653763" /></p>
+<p>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?  username=vikraman1653763&show_icons=true&locale=en&layout=compact" alt="vikraman1653763" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikraman1653763&" alt="vikraman1653763" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikraman1653763&show_icons=true&locale=en" alt="vikraman1653763" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikraman1653763&" alt="vikraman1653763" />
+</p>
 
