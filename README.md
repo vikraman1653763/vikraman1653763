@@ -9,9 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman1653763&label=Profile%20views&color=0e75b6&style=flat" alt="vikraman1653763" /> </p>
 
-- 🔭 I’m currently working at **Ramco Systems**
-
-- 📫 How to reach me **vikraman1653763@gmail.com**
+- 🔭 I’m currently working as a **Software Developer** at **Ramco Systems** in Chennai.
+- 💻 Recently architected an **agentic error diagnostic system** (leveraging AWS Bedrock, MCP, and Milvus Vector DB) and engineered automated **CI/CD pipelines**.
+- 🌱 I’m currently focusing on **Full Stack Development (MERN, Next.js, Python/FastAPI)** and building **AI-integrated web applications**.
+- 🎓 Master of Science in Computer Science (University of Madras).
+- 📫 How to reach me: **vikraman1653763@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -75,5 +77,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikraman1653763&" alt="vikraman1653763" />
+  <img align="center" src="https://github-readme-streak-stats-black-iota.vercel.app/?user=vikraman1653763" alt="vikraman1653763" />
 </p>
